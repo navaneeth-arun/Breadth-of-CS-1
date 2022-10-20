@@ -62,4 +62,4 @@ D;JGT
 
 (END)
     @END
-    0;
+    0;JMP
